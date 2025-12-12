@@ -1,2 +1,2 @@
 # prueba
-hello
+print ("Hello world!")
